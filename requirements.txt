@@ -1,0 +1,6 @@
+django-bootstrap3
+django-categories
+djangorestframework
+django-allauth
+pillow
+south
