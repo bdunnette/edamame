@@ -128,6 +128,9 @@ INSTALLED_APPS = (
     'bootstrap3',
     'south',
     'categories.editor',
+    'edamame_diseases',
+    'edamame_cases',
+    'edamame_assets',
 )
 
 # A sample logging configuration. The only tangible logging
