@@ -1,6 +1,18 @@
+<<<<<<< HEAD
 django-bootstrap3
 django-categories
 djangorestframework
 django-allauth
 pillow
 south
+=======
+Django==1.5.2
+Pillow==2.1.0
+South==0.8.2
+argparse==1.2.1
+django-allauth==0.13.0
+django-bootstrap3==0.0.6
+django-categories==1.2.2
+django-haystack==2.1.0
+djangorestframework==2.3.7
+>>>>>>> 93d600a0bd53b345ae52d62f1f6041032b563b84
